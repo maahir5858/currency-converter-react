@@ -15,6 +15,7 @@ Users can select the source and target currencies, enter an amount, and instantl
 
 ## 📱 Project Preview
 
+https://github.com/user-attachments/assets/e7c12c3d-99f4-4d39-ac07-3105ae13f0ed
 
 ## 🚀 Getting Started
 
